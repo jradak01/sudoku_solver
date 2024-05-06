@@ -1,0 +1,11 @@
+C:\Users\jopy_\OneDrive\Desktop\Sudoku_JR\Sudoku_JR\bin\Debug\Sudoku_JR.exe.config
+C:\Users\jopy_\OneDrive\Desktop\Sudoku_JR\Sudoku_JR\bin\Debug\Sudoku_JR.exe
+C:\Users\jopy_\OneDrive\Desktop\Sudoku_JR\Sudoku_JR\bin\Debug\Sudoku_JR.pdb
+C:\Users\jopy_\OneDrive\Desktop\Sudoku_JR\Sudoku_JR\obj\Debug\Sudoku_JR.csprojAssemblyReference.cache
+C:\Users\jopy_\OneDrive\Desktop\Sudoku_JR\Sudoku_JR\obj\Debug\Sudoku_JR.Sudoku.resources
+C:\Users\jopy_\OneDrive\Desktop\Sudoku_JR\Sudoku_JR\obj\Debug\Sudoku_JR.Properties.Resources.resources
+C:\Users\jopy_\OneDrive\Desktop\Sudoku_JR\Sudoku_JR\obj\Debug\Sudoku_JR.csproj.GenerateResource.cache
+C:\Users\jopy_\OneDrive\Desktop\Sudoku_JR\Sudoku_JR\obj\Debug\Sudoku_JR.csproj.CoreCompileInputs.cache
+C:\Users\jopy_\OneDrive\Desktop\Sudoku_JR\Sudoku_JR\obj\Debug\Sudoku_JR.exe
+C:\Users\jopy_\OneDrive\Desktop\Sudoku_JR\Sudoku_JR\obj\Debug\Sudoku_JR.pdb
+C:\Users\jopy_\OneDrive\Desktop\Sudoku_JR\Sudoku_JR\obj\Debug\Sudoku_JR.HowToPlay.resources
