@@ -1,0 +1,3 @@
+# Sudoku solver
+
+This application solves Sudoku using three algorithms (Backtracking algorithm, Knuth's Algorithm X, and Crook's "paper-and-pencil" algorithm). A 9x9 grid is created where a random Sudoku problem can be generated with three different difficulty levels (based on the number of revealed cells). Sudoku does not always have to have a unique solution. The user can choose the desired algorithm to solve the problem, and the time required for solving that problem is displayed to the algorithm. Before selecting an algorithm, the user can attempt to solve Sudoku independently, and by running one of the algorithms, only check the solution. The application is built in Windows Form using the C# programming language.
